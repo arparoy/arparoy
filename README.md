@@ -8,5 +8,5 @@ Let's explore Arpa Roy Coding World Form 🇵🇱🍑
 </p>
 
 <p align="center">
-  <a href="https://github.com/arparoycollection"><img src="https://readme-profile-boost.lovable.app/api/public/badge?username=arparoycollection&theme=gruvbox&style=plastic&label=Profile+views&scale=0.85" alt="Profile views" /></a>
+  <a href="https://github.com/arparoy"><img src="https://readme-profile-boost.lovable.app/api/public/badge?username=arparoy&theme=gruvbox&style=plastic&label=Profile+views&scale=0.85" alt="Profile views" /></a>
 </p>
